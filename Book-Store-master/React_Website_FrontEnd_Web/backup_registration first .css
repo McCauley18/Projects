@@ -1,0 +1,107 @@
+<div class="text-content">
+  <div>     
+    <div class="footer-container" runat="server">
+      <section class="footer-subscription" runat="server">
+        <p class="footer-subscription footer-subscription-heading">
+          Create a new account to purchase books
+        </p>
+        <div class="input-areas" runat="server">  
+          <formview runat="server">  
+            <input 
+                class="footer-input"
+                name="email"  
+                type="email"
+                placeholder="Enter your email address"
+                style="width:700px;"
+                id="emailaddress"
+                runat="server"
+            />
+              <br />
+             <input
+                    class="footer-input"
+                    name="Firstname"
+                    type="text"
+                    runat="server"
+                    id="firstname"
+                    placeholder="First name"
+                    style="width:700px;"
+                    required
+                />
+                <br />
+              <input
+                    class="footer-input"
+                    name="Lastname"
+                   runat="server"
+                   id="lastname"
+                    type="text"
+                    placeholder="Last name"
+                    style="width:700px;"
+                    required
+                />
+                <br />
+              <input
+                    class="footer-input"
+                    name="phoneNumber"
+                    type="text"
+                   runat="server"
+                   id="phonenumber"
+                    placeholder="Phone number"
+                    style="width:700px;"
+                    required
+                />
+                
+                <br />
+             <input
+              class="footer-input"
+              name="password"
+              type="password"  
+              runat="server"
+              id="password"
+              placeholder="Password"
+              style="width:700px;"
+              required
+            />
+
+              <br />
+             <input  
+              class="footer-input"  
+              name="confirmpassword"
+              type="password"   
+              runat="server"
+              id="confirmpassword"
+              placeholder="Confirm Password"
+              style="width:700px;"
+              required
+            />
+              <br />
+             
+                <br />            
+                <script type="text/javascript">
+                    function redirectToApsPage() {
+                        // Redirect to aps.aspx
+                        window.location.href = 'UserPage.aspx';
+                        return false; // Prevent postback
+                    }
+                </script>
+          </formview>
+        </div>
+      </section>
+    </div>
+  </div>
+</div>
+
+
+=========
+====================
+
+.text-content {
+  width: 80%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 20px;
+  background-color: #f5f5f5;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}

@@ -1,0 +1,376 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="React_Website_FrontEnd_Web.Site1" %>
+
+<!DOCTYPE html>  
+
+<html>
+<head runat="server">
+    <title>Smart Books</title>
+
+
+    <link href="CSS/AdminPage.css" rel="stylesheet" />
+    <link href="CSS/AfterSignUp.css" rel="stylesheet" />
+    <link href="CSS/aftersignupsearcbar.css" rel="stylesheet" />
+    <link href="CSS/animate.css" rel="stylesheet" />
+    <link href="CSS/bookstyle.css" rel="stylesheet" />
+    <link href="CSS/bootstrap-datepicker.css" rel="stylesheet" />
+    <link href="CSS/bootstrap.min.css" rel="stylesheet" />
+    <link href="CSS/Button.css" rel="stylesheet" />
+    <link href="CSS/Cards.css" rel="stylesheet" />
+    <link href="CSS/Catalog.css" rel="stylesheet" />
+    <link href="CSS/Footer.css" rel="stylesheet" />
+    <link href="CSS/HeroSection.css" rel="stylesheet" />  
+    <link href="CSS/icomoon.css" rel="stylesheet" />
+    <link href="CSS/jquery.timepicker.css" rel="stylesheet" />
+    <link href="CSS/magnific-popup.css" rel="stylesheet" />
+    <link href="CSS/Navbar.css" rel="stylesheet" />  
+    <link href="CSS/open-iconic-bootstrap.min.css" rel="stylesheet" />
+    <link href="CSS/owl.carousel.min.css" rel="stylesheet" />
+    <link href="CSS/owl.theme.default.min.css" rel="stylesheet" />
+    <link href="CSS/Services.css" rel="stylesheet" />
+    <link href="CSS/SignInData.css" rel="stylesheet" />
+    <link href="CSS/SignUpInput.css" rel="stylesheet" />
+    <link href="CSS/style.css" rel="stylesheet" />
+    <link href="CSS/hero-cards.css" rel="stylesheet" />
+    <link href="CSS/cart-view.css" rel="stylesheet" />
+
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+       
+    <style>
+        .icon-container {
+                text-align: center; /* Center the text */
+            }
+
+        .icon {
+            width: 24px;
+            height: 24px;
+            display: block; /* Ensures the image and text are on separate lines */
+        }
+
+    </style>
+
+
+</head>
+<body class="arrangement">
+
+    <form id="form1" runat="server">
+
+
+        <div>  
+        <header>
+            <div style="min-height: calc(100vh-100px);" >
+            <div style="border: 2px solid black; height: 70px; background: white" > 
+
+            <br /> <br />
+            <%--Navigation Bar--%>  
+         <nav class="navbar navbar-expand-lg navbar-dark site_navbar bg-dark site-navbar-light" id="site-navbar">
+        <div class="container">
+            <a class="navbar-brand" href="HomePage.aspx" style="color:black;">Smart Books</a>
+           <%-- <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#site-nav" aria-controls="site-nav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="oi oi-menu"></span>Menu       
+            </button>--%>
+			
+            <div class="collapse navbar-collapse" id="site-nav">  
+
+                <%--This unlisted list is for the a non person who hasn't registered i.e resgistered--%>
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a href="HomePage.aspx" class="nav-link">
+                            <div class="icon-container">
+                                <img src="https://raw.githubusercontent.com/EvaTheIntenstaller/GroupPG/7a4a355ab681e936631eaf877de99b890d912275/house-solid.svg" alt="Home" class="icon">
+                            </div>
+                        </a>
+                    </li>
+                     <li class="nav-item" run>
+                        <a href="ProdutsPage.aspx" class="nav-link">
+                            <div class="icon-container" runat="server" id="products">
+                                <img src="https://raw.githubusercontent.com/EvaTheIntenstaller/GroupPG/fd9d1608c92ba82c8eec3aa18d17f61a4944c0a7/book-solid.svg" alt="Products" class="icon">
+                            </div>
+                        </a>
+                    </li>
+                   <li class="nav-item">
+                        <a href="SignUpPage.aspx" class="nav-link">
+                         <div class="icon-container">
+                                <img src=" https://raw.githubusercontent.com/EvaTheIntenstaller/GroupPG/91b71d57a50c7e62ab9c6c7b352e02bcc27223fe/plus-solid.svg" alt="Products" class="icon">
+                            </div>
+                      </a>
+                    </li>
+                   <li class="nav-item">
+                        <a href="SignInPage.aspx" class="nav-link">
+                            <div class="icon-container">
+                                <img src="https://raw.githubusercontent.com/EvaTheIntenstaller/GroupPG/fd9d1608c92ba82c8eec3aa18d17f61a4944c0a7/arrow-right-to-bracket-solid.svg" alt="Products" class="icon">
+                            </div>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="Cart.aspx" class="nav-link">
+                            <div class="icon-container">
+                                <img src="https://raw.githubusercontent.com/EvaTheIntenstaller/GroupPG/fd9d1608c92ba82c8eec3aa18d17f61a4944c0a7/cart-shopping-solid.svg" alt="Products" class="icon">
+                            </div>
+                        </a>
+                    </li>
+                     <li class="nav-item">
+                        <a href="wishlist.aspx" class="nav-link">
+                            <div class="icon-container">
+                                <img src="https://raw.githubusercontent.com/EvaTheIntenstaller/GroupPG/fd9d1608c92ba82c8eec3aa18d17f61a4944c0a7/heart-regular.svg" alt="Products" class="icon">
+                            </div>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="profile.aspx" class="nav-link">
+                            <div class="icon-container">
+                                <img src="https://raw.githubusercontent.com/EvaTheIntenstaller/GroupPG/fd9d1608c92ba82c8eec3aa18d17f61a4944c0a7/user-solid.svg" alt="Products" class="icon">
+                            </div>
+                        </a>
+                    </li>  
+                     <li class="nav-item">
+                        <a href="Invoices.aspx" class="nav-link">
+                            <div class="icon-container">
+                                <img src="https://cdn-icons-png.flaticon.com/128/726/726182.png" runat="server" id="invoice" alt="Invoice" class="icon">
+                            </div>
+                        </a>
+                    </li>
+                  <%--  <li class="nav-item"><a href="#section-contact" class="nav-link">Contact</a></li>--%>
+                </ul>
+            </div>   
+         </nav>
+                </div>
+
+                </div>
+            </header>
+           <%--End Navigation--%> 
+              
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+
+           <%-- <div class="footer-container">
+        <section class="footer-subscription">
+            <p class="footer-subscription-heading">
+                Join the smart books newsletter to find out about upcoming books
+            </p>
+            <p class="footer-subscription-text">
+                You can unsubscribe at any time.
+            </p>
+            <div>  
+                <formview>
+                    <input class="footer-input" name="email" type="email" placeholder="Your Email" />
+                    <button type="submit" class="btn btn-outline">Subscribe</button>
+                </formview>
+            </div>
+        </section>
+        <div class="footer-links">
+            <div class="footer-link-wrapper">
+                <div class="footer-link-items">
+                    <h2>About Us</h2>
+                    <a href="/sign-up">How it works</a>
+                    <a href="/">Reviews</a>
+                    <a href="/">Terms of Service</a>
+                </div>
+                <div class="footer-link-items">
+                    <h2>Contact Us</h2>
+                    <a href="/">Contact</a>
+                </div>
+            </div>
+            <div class="footer-link-wrapper">
+                <div class="footer-link-items">
+                    <h2>Social Media</h2>
+                    <a href="/">Instagram</a>
+                    <a href="/">Facebook</a>
+                    <a href="/">Youtube</a>
+                    <a href="/">Twitter</a>
+                </div>
+            </div>
+        </div>
+        <section class="social-media">
+            <div class="social-media-wrap">
+                <div class="footer-logo">
+                    <a href="/" class="social-logo">
+                        SMARTBOOKS
+                        <i class="fab fa-typo3"></i>
+                    </a>
+                </div>
+                <small class="website-rights">SMARTBOOKS © @DateTime.Now.Year</small>
+                <div class="social-icons">
+                    <a class="social-icon-link facebook" href="/" target="_blank" aria-label="Facebook">
+                        <i class="fab fa-facebook-f"></i>
+                    </a>
+                    <a class="social-icon-link instagram" href="/" target="_blank" aria-label="Instagram">
+                        <i class="fab fa-instagram"></i>
+                    </a>
+                    <a class="social-icon-link youtube" href="/" target="_blank" aria-label="Youtube">
+                        <i class="fab fa-youtube"></i>
+                    </a>
+                    <a class="social-icon-link twitter" href="/" target="_blank" aria-label="Twitter">
+                        <i class="fab fa-twitter"></i>
+                    </a>
+                    <a class="social-icon-link linkedin" href="/" target="_blank" aria-label="LinkedIn">
+                        <i class="fab fa-linkedin"></i>
+                    </a>
+                </div>   
+            </div>
+        </section>
+    </div>--%>
+
+           <%--<div class="footer">
+        <div class="footer-container">
+            <section class="footer-subscription">
+                <p class="footer-subscription-heading">
+                    Join the smart books newsletter to find out about upcoming books
+                </p>
+                <p class="footer-subscription-text">
+                    You can subscribe at any time
+                </p>
+                <div>
+                    <form>
+                        <input
+                            class="footer-input"
+                            name="name"
+                            email="email"
+                            placeholder="Your Email"
+                        />
+                        <button type="submit" class="btn btn-primary btn-lg btn-block">Subscribe</button>
+                    </form> 
+                </div>
+            </section>
+            <div class="footer-links">
+                <div class="footer-link-wrapper">
+                    <div class="footer-link-items">
+                        <h2>About Us</h2>
+                        <ul>
+                            <li>How it works</li>
+                            <li>Reviews</li>
+                            <li>Terms of Service</li>
+                        </ul>
+                    </div>
+                    <div class="footer-link-items">
+                        <h2>Contact Us</h2>
+                        <ul>
+                            <li>Contact</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="footer-link-wrapper">
+                    <div class="footer-link-items">
+                        <h2>Social Media</h2>
+                        <ul>
+                            <li>Instagram</li>
+                            <li>Facebook</li>
+                            <li>Youtube</li>
+                            <li>Twitter</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <section class="social-media">
+                <div class="social-media-wrap">
+                    <div class="footer-logo">
+                        SMARTBOOKS
+                        <i class="fab fa-typo3"></i>
+                    </div>
+                    <small class="website-rights">SMARTBOOKS © 2023</small>
+                    <div class="social-icons">
+                        <i class="fab fa-facebook-f"></i>
+                        <i class="fab fa-instagram"></i>
+                        <i class="fab fa-youtube"></i>
+                        <i class="fab fa-twitter"></i>
+                        <i class="fab fa-linkedin"></i>
+                    </div>
+                </div  
+            </section>
+        </div>
+    </div>--%>
+
+            <%--<div class="footer">  
+            
+             <div class="footer-container">
+                <section class="footer-subscription">
+                    <p class="footer-subscription-heading" >
+                    Join the smart books newsletter to find out about up coming books
+                    </p>
+                    <p class="footer-subscription-text">
+                        You can subscribe at any time
+                    </p>
+
+                    <div>
+                        <formview>
+                            <input 
+                                class="footer-input"
+                                name="name"
+                                email="email"
+                                placeholder="Your Email"
+                                />
+
+                            
+
+                           <%-- <asp:Button ID="Subscribe" runat="server" Text="Subscribe" class="btn btn-primary btn-lg btn-block" OnClick="Subscribe_Click" />--%>
+                       <%-- <asp:Button ID="Subscribe" runat="server" Text="Subscribe" class="btn btn-primary btn-lg btn-block" />--%>
+
+                            <%--<asp:Button ID="Button1" runat="server" Text="Button" />--%>
+                       <%-- </formview>
+                    </div>
+                     
+                </section>  
+
+                <div class="footer-links">
+              <div class="footer-link-wrapper">--%>
+          <%--<div class="footer-link-items">
+            <h2>About Us</h2>
+            How it works
+            Reviews
+            Terms of Service
+          </div>
+          <div class="footer-link-items">
+            <h2>Contact Us</h2>
+           Contact 
+          </div>
+        </div>
+        <div class="footer-link-wrapper">
+          <div class="footer-link-items">
+            <h2>Social Media</h2>
+           Instagram --%>
+         <%--  Facebook
+           Youtube
+           Twitter
+          </div>
+        </div>
+      </div>
+      <section class="social-media">
+        <div class="social-media-wrap">
+          <div class="footer-logo">
+            
+              SMARTBOOKS
+              <i class="fab fa-typo3" />
+            
+          </div>
+          <small class="website-rights">SMARTBOOKS © 2023</small>
+          <div class="social-icons">
+            
+              <i class="fab fa-facebook-f" />
+         
+            
+              <i class="fab fa-instagram" />
+     
+              <i class="fab fa-youtube" />
+           
+             
+              <i class="fab fa-twitter" />
+            
+             
+              <i class="fab fa-linkedin" />
+             
+          </div>
+        </div>
+      </section>
+ 
+            </div>
+
+
+                </div>--%>
+
+        </div>
+
+    </form>
+</body>
+</html>
