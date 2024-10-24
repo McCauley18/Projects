@@ -1,0 +1,32 @@
+﻿.custom-gridview {
+    width: 100%; /* Set the width of the GridView to 100% */
+    margin-top: 20px; /* Add some top margin */
+    border-collapse: collapse; /* Collapse border spacing */
+}
+
+    .custom-gridview th,
+    .custom-gridview td {
+        padding: 15px; /* Set padding for header and data cells */
+        text-align: center; /* Center-align text within cells */
+        border: 1px solid #000; /* Add a black border */
+    }
+
+    .custom-gridview th {
+        background-color: #000; /* Black background for header cells */
+        color: #fff; /* White text color for header cells */
+    }
+
+    .custom-gridview tr:nth-child(even) {
+        background-color: #f2f2f2; /* Light gray background for even rows */
+    }
+
+    .custom-gridview tr:nth-child(odd) {
+        background-color: #fff; /* White background for odd rows */
+    }
+
+#CartEmptyLabel {
+    text-align: center; /* Center the text horizontally */
+    margin-top: 50px; /* Add some top margin for vertical centering */
+    font-size: 24px; /* Adjust the font size */
+    color: #000; /* Set the text color to black */
+}

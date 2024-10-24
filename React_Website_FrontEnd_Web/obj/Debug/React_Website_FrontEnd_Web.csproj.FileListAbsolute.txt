@@ -1,0 +1,826 @@
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\bin\React_Website_FrontEnd_Web.dll.config
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\bin\React_Website_FrontEnd_Web.dll
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\bin\React_Website_FrontEnd_Web.pdb
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\bin\roslyn\csc.exe
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\bin\roslyn\csc.exe.config
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\bin\roslyn\csc.rsp
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\bin\roslyn\csi.exe
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\bin\roslyn\csi.exe.config
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\bin\roslyn\csi.rsp
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\bin\roslyn\System.AppContext.dll
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\bin\roslyn\System.Console.dll
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\bin\roslyn\System.Net.Http.dll
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\bin\roslyn\System.Net.Sockets.dll
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\bin\roslyn\vbc.exe
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\bin\roslyn\vbc.exe.config
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\bin\roslyn\vbc.rsp
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.csproj.AssemblyReference.cache
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.csproj.CoreCompileInputs.cache
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.csproj.CopyComplete
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.dll
+C:\Users\McCau\source\repos\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.pdb
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\bin\React_Website_FrontEnd_Web.dll.config
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\bin\React_Website_FrontEnd_Web.dll
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\bin\React_Website_FrontEnd_Web.pdb
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\bin\roslyn\csc.exe
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\bin\roslyn\csc.exe.config
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\bin\roslyn\csc.rsp
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\bin\roslyn\csi.exe
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\bin\roslyn\csi.exe.config
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\bin\roslyn\csi.rsp
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CSharp.Core.targets
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.Managed.Core.targets
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\bin\roslyn\System.AppContext.dll
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\bin\roslyn\System.Collections.Immutable.dll
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\bin\roslyn\System.Console.dll
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\bin\roslyn\System.Globalization.Calendars.dll
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\bin\roslyn\System.IO.Compression.dll
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\bin\roslyn\System.IO.FileSystem.dll
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\bin\roslyn\System.Net.Http.dll
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\bin\roslyn\System.Net.Sockets.dll
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\bin\roslyn\System.Reflection.Metadata.dll
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\bin\roslyn\System.ValueTuple.dll
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\bin\roslyn\System.Xml.ReaderWriter.dll
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\bin\roslyn\System.Xml.XmlDocument.dll
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\bin\roslyn\System.Xml.XPath.dll
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\bin\roslyn\vbc.exe
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\bin\roslyn\vbc.exe.config
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\bin\roslyn\vbc.rsp
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\bin\roslyn\VBCSCompiler.exe
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\bin\roslyn\VBCSCompiler.exe.config
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.csproj.AssemblyReference.cache
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.csproj.CoreCompileInputs.cache
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.csproj.CopyComplete
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.dll
+T:\React_Website_FrontEnd_Web\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.pdb
+T:\React_Website_FrontEnd_Web\bin\React_Website_FrontEnd_Web.dll.config
+T:\React_Website_FrontEnd_Web\bin\React_Website_FrontEnd_Web.dll
+T:\React_Website_FrontEnd_Web\bin\React_Website_FrontEnd_Web.pdb
+T:\React_Website_FrontEnd_Web\bin\roslyn\csc.exe
+T:\React_Website_FrontEnd_Web\bin\roslyn\csc.exe.config
+T:\React_Website_FrontEnd_Web\bin\roslyn\csc.rsp
+T:\React_Website_FrontEnd_Web\bin\roslyn\csi.exe
+T:\React_Website_FrontEnd_Web\bin\roslyn\csi.exe.config
+T:\React_Website_FrontEnd_Web\bin\roslyn\csi.rsp
+T:\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+T:\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+T:\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+T:\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+T:\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+T:\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+T:\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CSharp.Core.targets
+T:\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+T:\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+T:\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.Managed.Core.targets
+T:\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+T:\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+T:\React_Website_FrontEnd_Web\bin\roslyn\System.AppContext.dll
+T:\React_Website_FrontEnd_Web\bin\roslyn\System.Collections.Immutable.dll
+T:\React_Website_FrontEnd_Web\bin\roslyn\System.Console.dll
+T:\React_Website_FrontEnd_Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+T:\React_Website_FrontEnd_Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+T:\React_Website_FrontEnd_Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+T:\React_Website_FrontEnd_Web\bin\roslyn\System.Globalization.Calendars.dll
+T:\React_Website_FrontEnd_Web\bin\roslyn\System.IO.Compression.dll
+T:\React_Website_FrontEnd_Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+T:\React_Website_FrontEnd_Web\bin\roslyn\System.IO.FileSystem.dll
+T:\React_Website_FrontEnd_Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+T:\React_Website_FrontEnd_Web\bin\roslyn\System.Net.Http.dll
+T:\React_Website_FrontEnd_Web\bin\roslyn\System.Net.Sockets.dll
+T:\React_Website_FrontEnd_Web\bin\roslyn\System.Reflection.Metadata.dll
+T:\React_Website_FrontEnd_Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+T:\React_Website_FrontEnd_Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+T:\React_Website_FrontEnd_Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+T:\React_Website_FrontEnd_Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+T:\React_Website_FrontEnd_Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+T:\React_Website_FrontEnd_Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+T:\React_Website_FrontEnd_Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+T:\React_Website_FrontEnd_Web\bin\roslyn\System.ValueTuple.dll
+T:\React_Website_FrontEnd_Web\bin\roslyn\System.Xml.ReaderWriter.dll
+T:\React_Website_FrontEnd_Web\bin\roslyn\System.Xml.XmlDocument.dll
+T:\React_Website_FrontEnd_Web\bin\roslyn\System.Xml.XPath.dll
+T:\React_Website_FrontEnd_Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+T:\React_Website_FrontEnd_Web\bin\roslyn\vbc.exe
+T:\React_Website_FrontEnd_Web\bin\roslyn\vbc.exe.config
+T:\React_Website_FrontEnd_Web\bin\roslyn\vbc.rsp
+T:\React_Website_FrontEnd_Web\bin\roslyn\VBCSCompiler.exe
+T:\React_Website_FrontEnd_Web\bin\roslyn\VBCSCompiler.exe.config
+T:\React_Website_FrontEnd_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+T:\React_Website_FrontEnd_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+T:\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.csproj.AssemblyReference.cache
+T:\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.csproj.CoreCompileInputs.cache
+T:\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.csproj.CopyComplete
+T:\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.dll
+T:\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.pdb
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\bin\React_Website_FrontEnd_Web.dll.config
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\bin\React_Website_FrontEnd_Web.dll
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\bin\React_Website_FrontEnd_Web.pdb
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\csc.exe
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\csc.exe.config
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\csc.rsp
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\csi.exe
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\csi.exe.config
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\csi.rsp
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CSharp.Core.targets
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.Managed.Core.targets
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.AppContext.dll
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Collections.Immutable.dll
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Console.dll
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Globalization.Calendars.dll
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.IO.Compression.dll
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.IO.FileSystem.dll
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Net.Http.dll
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Net.Sockets.dll
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Reflection.Metadata.dll
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.ValueTuple.dll
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Xml.ReaderWriter.dll
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Xml.XmlDocument.dll
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Xml.XPath.dll
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\vbc.exe
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\vbc.exe.config
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\vbc.rsp
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\VBCSCompiler.exe
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\VBCSCompiler.exe.config
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.csproj.AssemblyReference.cache
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.csproj.CoreCompileInputs.cache
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.csproj.CopyComplete
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.dll
+T:\Updated Frontend v2\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.pdb
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\bin\React_Website_FrontEnd_Web.dll.config
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\bin\React_Website_FrontEnd_Web.dll
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\bin\React_Website_FrontEnd_Web.pdb
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\csc.exe
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\csc.exe.config
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\csc.rsp
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\csi.exe
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\csi.exe.config
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\csi.rsp
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.AppContext.dll
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Console.dll
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Net.Http.dll
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Net.Sockets.dll
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\vbc.exe
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\vbc.exe.config
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\vbc.rsp
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.csproj.AssemblyReference.cache
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.csproj.CoreCompileInputs.cache
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.csproj.CopyComplete
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.dll
+C:\Users\General\Pictures\React_Website_FrontEnd_Web\Updated Frontend v2\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.pdb
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\bin\React_Website_FrontEnd_Web.dll.config
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\bin\React_Website_FrontEnd_Web.dll
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\bin\React_Website_FrontEnd_Web.pdb
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\csc.exe
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\csc.exe.config
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\csc.rsp
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\csi.exe
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\csi.exe.config
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\csi.rsp
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.AppContext.dll
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Console.dll
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Net.Http.dll
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\vbc.exe
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\vbc.exe.config
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\vbc.rsp
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.csproj.AssemblyReference.cache
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.csproj.CoreCompileInputs.cache
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.csproj.CopyComplete
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.dll
+C:\Users\Iris Kajokoto\Downloads\Updated_(Mbuyelo)v3\Updated Frontend v2\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.pdb
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\React_Website_FrontEnd_Web.dll.config
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\React_Website_FrontEnd_Web.dll
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\React_Website_FrontEnd_Web.pdb
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\csc.exe
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\csc.exe.config
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\csc.rsp
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\csi.exe
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\csi.exe.config
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\csi.rsp
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CSharp.Core.targets
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.Managed.Core.targets
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.AppContext.dll
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Collections.Immutable.dll
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Console.dll
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Globalization.Calendars.dll
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.IO.Compression.dll
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.IO.FileSystem.dll
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Net.Http.dll
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Net.Sockets.dll
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Reflection.Metadata.dll
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.ValueTuple.dll
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Xml.ReaderWriter.dll
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Xml.XmlDocument.dll
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Xml.XPath.dll
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\vbc.exe
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\vbc.exe.config
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\vbc.rsp
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\VBCSCompiler.exe
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\VBCSCompiler.exe.config
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.csproj.AssemblyReference.cache
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.csproj.CoreCompileInputs.cache
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.csproj.CopyComplete
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.dll
+T:\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.pdb
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\React_Website_FrontEnd_Web.dll.config
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\React_Website_FrontEnd_Web.dll
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\React_Website_FrontEnd_Web.pdb
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\csc.exe
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\csc.exe.config
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\csc.rsp
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\csi.exe
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\csi.exe.config
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\csi.rsp
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.AppContext.dll
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Console.dll
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Net.Http.dll
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Net.Sockets.dll
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\vbc.exe
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\vbc.exe.config
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\vbc.rsp
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.csproj.AssemblyReference.cache
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.csproj.CoreCompileInputs.cache
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.csproj.CopyComplete
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.dll
+C:\Users\General\Downloads\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.pdb
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\React_Website_FrontEnd_Web.dll.config
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\React_Website_FrontEnd_Web.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\React_Website_FrontEnd_Web.pdb
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\csc.exe
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\csc.exe.config
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\csc.rsp
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\csi.exe
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\csi.exe.config
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\csi.rsp
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CSharp.Core.targets
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.Managed.Core.targets
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.AppContext.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Collections.Immutable.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Console.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Globalization.Calendars.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.IO.Compression.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.IO.FileSystem.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Net.Http.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Net.Sockets.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Reflection.Metadata.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.ValueTuple.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Xml.ReaderWriter.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Xml.XmlDocument.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Xml.XPath.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\vbc.exe
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\vbc.exe.config
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\vbc.rsp
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\VBCSCompiler.exe
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\VBCSCompiler.exe.config
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.csproj.AssemblyReference.cache
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.csproj.CoreCompileInputs.cache
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.csproj.CopyComplete
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.pdb
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\React_Website_FrontEnd_Web.dll.config
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\React_Website_FrontEnd_Web.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\React_Website_FrontEnd_Web.pdb
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\csc.exe
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\csc.exe.config
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\csc.rsp
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\csi.exe
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\csi.exe.config
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\csi.rsp
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CSharp.Core.targets
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.Managed.Core.targets
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.AppContext.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Collections.Immutable.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Console.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Globalization.Calendars.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.IO.Compression.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.IO.FileSystem.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Net.Http.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Net.Sockets.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Reflection.Metadata.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.ValueTuple.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Xml.ReaderWriter.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Xml.XmlDocument.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Xml.XPath.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\vbc.exe
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\vbc.exe.config
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\vbc.rsp
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\VBCSCompiler.exe
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\VBCSCompiler.exe.config
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.csproj.AssemblyReference.cache
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.csproj.CoreCompileInputs.cache
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.csproj.CopyComplete
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.dll
+T:\Updated v4 Mbuyelo22\Updated v4 Mbuyelo22\Updated v4 Mbuyelo\Updated Frontend v2\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.pdb
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\React_Website_FrontEnd_Web.dll.config
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\React_Website_FrontEnd_Web.dll
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\React_Website_FrontEnd_Web.pdb
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\csc.exe
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\csc.exe.config
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\csc.rsp
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\csi.exe
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\csi.exe.config
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\csi.rsp
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.AppContext.dll
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Console.dll
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Net.Http.dll
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Net.Sockets.dll
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\vbc.exe
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\vbc.exe.config
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\vbc.rsp
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.csproj.AssemblyReference.cache
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.csproj.CoreCompileInputs.cache
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.csproj.CopyComplete
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.dll
+C:\Users\McCau\Videos\SMART BOOKS\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.pdb
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\React_Website_FrontEnd_Web.dll.config
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\React_Website_FrontEnd_Web.dll
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\React_Website_FrontEnd_Web.pdb
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\csc.exe
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\csc.exe.config
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\csc.rsp
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\csi.exe
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\csi.exe.config
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\csi.rsp
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.AppContext.dll
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Console.dll
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Net.Http.dll
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\vbc.exe
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\vbc.exe.config
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\vbc.rsp
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.csproj.AssemblyReference.cache
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.csproj.CoreCompileInputs.cache
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.csproj.CopyComplete
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.dll
+C:\Users\Siphamandla Xhakwe\Desktop\Mbuyelo's version\Updated Frontend v2\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.pdb
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\React_Website_FrontEnd_Web.dll.config
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\React_Website_FrontEnd_Web.dll
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\React_Website_FrontEnd_Web.pdb
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\csc.exe
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\csc.exe.config
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\csc.rsp
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\csi.exe
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\csi.exe.config
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\csi.rsp
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\System.AppContext.dll
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\System.Console.dll
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\System.Net.Http.dll
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\System.Net.Sockets.dll
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\vbc.exe
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\vbc.exe.config
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\vbc.rsp
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.csproj.AssemblyReference.cache
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.csproj.CoreCompileInputs.cache
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.csproj.CopyComplete
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.dll
+C:\Users\McCau\Videos\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.pdb
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.csproj.AssemblyReference.cache
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.csproj.CoreCompileInputs.cache
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.dll
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\obj\Debug\React_Website_FrontEnd_Web.pdb
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\React_Website_FrontEnd_Web.dll.config
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\React_Website_FrontEnd_Web.dll
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\React_Website_FrontEnd_Web.pdb
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\csc.exe
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\csc.exe.config
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\csc.rsp
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\csi.exe
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\csi.exe.config
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\csi.rsp
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\System.AppContext.dll
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\System.Console.dll
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\System.Net.Http.dll
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\System.Net.Sockets.dll
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\vbc.exe
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\vbc.exe.config
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\vbc.rsp
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\McCau\Videos\UNDERGRADUATE\IFM2B_Free_Thinkers_Group_21\React_Website_FrontEnd_Web\obj\Debug\React_We.8A31F60C.Up2Date
